@@ -50,7 +50,7 @@ To run this project locally:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/localvibe-api.git
+git clone https://github.com/crandquist/LocalVibe-API
 cd localvibe-api
 ```
 
