@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Google Cloud credentials (don't upload your keyfile!)
+*.json
+
+# Local files
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Python package management files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore coverage, pytest, or cache folders if you add testing later
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Mac OS Finder files
+.DS_Store
+
+# Build / Deployment artifacts
+*.zip
+*.tar.gz
+dist/
+build/
