@@ -1,3 +1,7 @@
+[![GCP Deploy](https://img.shields.io/badge/Deployed-Google%20Cloud-blue)](https://assignment-2-spring25.uc.r.appspot.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Built%20with-Python-blue)](https://www.python.org/)
+
 # LocalVibe API
 
 A cloud-native RESTful API for managing businesses, owners, and user reviews.  
